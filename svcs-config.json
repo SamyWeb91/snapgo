@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "auto_ignore": [
+    "node_modules/",
+    ".git/",
+    "__pycache__/"
+  ],
+  "compression_level": 6,
+  "max_snapshots": 100,
+  "chunk_size_mb": 10
+}
